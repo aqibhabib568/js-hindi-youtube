@@ -1,2 +1,2 @@
-console.log("aqib")
+console.log("aqib");
 
